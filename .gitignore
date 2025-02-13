@@ -1,0 +1,25 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore IDE settings and metadata
+.idea/
+# IntelliJ IDEA-specific files
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore log and system-specific files
+*.log
+.DS_Store
+
+# Ignore Streamlit configuration files
+.streamlit/
+
+# Ignore secrets
+.env
