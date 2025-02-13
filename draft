@@ -1,0 +1,5 @@
+# Sort the meal plan (optional)
+meal_plan_result = meal_plan_result.sort_values(by='priority', ascending=False)
+
+# Then generate the PDF after sorting
+pdf_buffer = generate_pdf(meal_plan_result)
