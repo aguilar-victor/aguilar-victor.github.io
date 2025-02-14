@@ -1,8 +1,10 @@
 # 🧑‍🍳 Personalized Meal Planner 🍽️
-[![PRs.github.io](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/aguilar-victor/mealplanner/forks) [![website .github.io](https://img.shields.io/website-light-up/http/victor-aguilar.github.io/creative-profile-readme.s)](https://yourmealplanner.streamlit.app)
+[![website.github.io](https://img.shields.io/badge/website-on-brightgreen)](https://yourmealplanner.streamlit.app)
+[![PRs.github.io](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/aguilar-victor/mealplanner/forks)
+[![license.github.io](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/aguilar-victor/mealplanner/blob/main/LICENSE)
 
-Welcome to the **Personalized Meal Planner**! This app helps you create a custom meal plan based on your dietary preferences, calorie goals, and macronutrient needs. Simply enter your desired calories and macronutrient ratios, and the app will generate a personalized meal plan, including nutrition breakdowns and a downloadable PDF.
-<!--![Project Banner](https://yourmealplanner.com)-->
+Welcome to the **Personalized Meal Planner**! This app lets you create a custom meal plan based on your diet preferences, calorie goals, and macronutrient needs. Just enter your desired calories and macronutrient ratios, and the app will generate a personalized meal plan with nutrition breakdown and a downloadable PDF.
+
 <br>
 
 # 🚀 Table of Contents
@@ -67,7 +69,7 @@ Check out the live web app: [Your Meal Planner](https://yourmealplanner.streamli
 - Personalize Your Meal Plan:
   - Enter your daily calorie goal.
   - Adjust macronutrient ratios (Carbs, Protein, Fats).
-- Dietary Preferences: Select from No Preference, Vegetarian, Vegan, or Keto.
+- Dietary Preferences: Select from: No Preference, Vegetarian, Vegan, or Keto.
 - Generate and Export Meal Plan:
   - View your meal plan with all relevant details.
   - Download it as a PDF for easy access.
