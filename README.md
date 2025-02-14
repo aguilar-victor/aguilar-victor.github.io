@@ -1,4 +1,5 @@
 # 🧑‍🍳 Personalized Meal Planner 🍽️
+[![PRs.github.io](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/aguilar-victor/mealplanner/forks) [![website .github.io](https://img.shields.io/website-light-up/http/victor-aguilar.github.io/creative-profile-readme.s)](https://yourmealplanner.streamlit.app)
 
 Welcome to the **Personalized Meal Planner**! This app helps you create a custom meal plan based on your dietary preferences, calorie goals, and macronutrient needs. Simply enter your desired calories and macronutrient ratios, and the app will generate a personalized meal plan, including nutrition breakdowns and a downloadable PDF.
 <!--![Project Banner](https://yourmealplanner.com)-->
