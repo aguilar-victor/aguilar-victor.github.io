@@ -5,7 +5,7 @@ Welcome to the **Personalized Meal Planner**! This app helps you create a custom
 <!--![Project Banner](https://yourmealplanner.com)-->
 <br>
 
-### 🚀 Table of Contents
+# 🚀 Table of Contents
 
 1. [Project Description](#project-description)
 2. [Features](#features)
@@ -13,7 +13,7 @@ Welcome to the **Personalized Meal Planner**! This app helps you create a custom
 4. [Licensing](#licensing)
 <br>
 
-### 📖 Project Description
+# 📖 Project Description
 
 The **Personalized Meal Planner** app allows users to:
 
@@ -28,7 +28,7 @@ This project leverages Streamlit for the web interface, Plotly for interactive c
 
 <br>
 
-### **🛠️ Features**
+# **🛠️ Features**
 
 - **Personalized Meal Plan:** Customize your meal plan based on calorie goals and macronutrient preferences.
 - **Dietary Preferences:** Choose between different diets (No Preference, Vegetarian, Vegan, and Keto).
@@ -37,7 +37,7 @@ This project leverages Streamlit for the web interface, Plotly for interactive c
 - **Food Clustering:** Foods are clustered into categories like High Protein, High Carb, and Balanced.
 <br>
 
-### 📊 Additional Features:
+# 📊 Additional Features:
 
 | Feature                  | Description                                                   |
 |--------------------------|---------------------------------------------------------------|
@@ -47,7 +47,7 @@ This project leverages Streamlit for the web interface, Plotly for interactive c
 | PDF Export                | Generate and download a PDF of your personalized meal plan.   |
 <br>
 
-### 🧑‍🍳 Supported Diets:
+# 🧑‍🍳 Supported Diets:
 
 - No Preference
 - Vegetarian
@@ -55,13 +55,13 @@ This project leverages Streamlit for the web interface, Plotly for interactive c
 - Keto
 <br>
 
-### 🌐 Live Demo:
+# 🌐 Live:
 
 Check out the live web app: [Your Meal Planner](https://yourmealplanner.streamlit.app)
 
 <br>
 
-### 💻 Usage
+# 💻 Usage
 
 - Open the app in your browser.
 - Personalize Your Meal Plan:
